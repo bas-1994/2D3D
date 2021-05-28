@@ -14,3 +14,6 @@ hoe het project uit github halen
 alles herhalen hierboven behalve push
 git pull #pulll
 
+IMPORTANT --> people following the course R reproducibility that are checking my code.
+Only review the parts #Packages #Data exploration and #multivariate analysis!!!! The other parts I might delete in the future or recode.
+It is work in progress so nothing is definitive yet
