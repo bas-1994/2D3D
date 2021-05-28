@@ -1,6 +1,11 @@
 # 2D3D
 2D3D registration
 
+IMPORTANT --> people following the course R reproducibility that are checking my code.
+Only review the parts #Packages #Data exploration and #multivariate analysis!!!! The other parts I might delete in the future or recode.
+It is work in progress so nothing is definitive yet
+
+# Open and/or update the project correctly in Github
 hoe het project updaten in die console:
 pwd # waar ben je?
 cd # zetten naar juiste map
@@ -14,6 +19,13 @@ hoe het project uit github halen
 alles herhalen hierboven tot git init
 git pull #pulll
 
-IMPORTANT --> people following the course R reproducibility that are checking my code.
-Only review the parts #Packages #Data exploration and #multivariate analysis!!!! The other parts I might delete in the future or recode.
-It is work in progress so nothing is definitive yet
+# Which program?
+R version 4.0.3 (2020-10-10)
+
+# What packages are necessary (this is addressed in the R code as well)
+#install these
+install.packages("readxl")
+install.packages("tidyverse")
+install.packages("tidyselect")
+install.packages("tableone")
+install.packages("olsrr")
