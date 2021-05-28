@@ -11,7 +11,7 @@ git remote add origin git@github.com:bas-1994/2D3D.git #goeie repository kiezen
 git push -u origin master # pushen, -f kan erbij tussen -u en master als er shit overwrite moet worden
 
 hoe het project uit github halen
-alles herhalen hierboven behalve push
+alles herhalen hierboven tot git init
 git pull #pulll
 
 IMPORTANT --> people following the course R reproducibility that are checking my code.
