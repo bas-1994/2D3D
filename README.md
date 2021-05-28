@@ -2,8 +2,9 @@
 2D3D registration
 
 IMPORTANT --> people following the course R reproducibility that are checking my code.
-Only review the parts #Packages #Data exploration and #multivariate analysis!!!! The other parts I might delete in the future or recode.
-It is work in progress so nothing is definitive yet
+Only review the parts #Packages #Data exploration and #multivariate analysis!!!! Multivariate analysis is NOT finished, still working on it. Have to do all these assumptions. If you have experience with this. You could be of great help to me. Currently fighting this statistical war all alone.
+The other parts I might delete in the future or recode.
+It is work in progress so nothing is definitive yet.
 
 # Open and/or update the project correctly in Github
 hoe het project updaten in die console:
