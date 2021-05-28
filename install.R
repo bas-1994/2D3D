@@ -1,0 +1,5 @@
+install.packages("readxl") 
+install.packages("tidyverse") 
+install.packages("tidyselect") 
+install.packages("tableone") 
+install.packages("olsrr")

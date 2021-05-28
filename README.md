@@ -1,6 +1,9 @@
 # 2D3D
 2D3D registration
 
+# Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bas-1994/2D3D/master)
+
 IMPORTANT --> people following the course R reproducibility that are checking my code.
 Only review the parts #Packages #Data exploration and #multivariate analysis!!!! Multivariate analysis is NOT finished, still working on it. Have to do all these assumptions. If you have experience with this. You could be of great help to me. Currently fighting this statistical war all alone.
 The other parts I might delete in the future or recode.
