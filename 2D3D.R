@@ -9,8 +9,6 @@ library("lintr")
 library("styler")
 library("docstring")
 
-#toe muut
-
 ## ------------ DATA PREPERATION (MANDATORY TO RUN) ---------------
 # Dataframe maken van resultaten excel, eerste drie rijen skippen
 # all_results <- data.frame(read_excel("H:/PhD/2D3D/Data/Results_excel.xlsx", range = "B4:BY193"))
